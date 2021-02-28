@@ -16,6 +16,11 @@ p {
     padding-top: 70px;
     padding-bottom: 70px;
 }
+.a {
+    color: #fff; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+}
+
 .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
@@ -23,7 +28,7 @@ p {
     border-radius: 0;
     margin-bottom: 0;
     font-size: 20px;
-    color:#7C8287
+    color:#7C8287;
 }
 .navbar-nav li a:hover{
     color: #2f2f2f !important;
