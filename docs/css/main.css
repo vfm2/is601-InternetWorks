@@ -45,3 +45,7 @@ p {
     color: #fff;
     line-height: 3em;
   }
+  .card {
+      margin: 3em;
+      padding: 3em;
+  }
