@@ -37,3 +37,11 @@ p {
 .navbar-nav li a:hover{
     color: #2f2f2f !important;
 }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    line-height: 3em;
+  }
